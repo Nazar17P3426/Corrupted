@@ -1,0 +1,2 @@
+# Corrupted
+GDI Malware
