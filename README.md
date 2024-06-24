@@ -1,2 +1,2 @@
 # Corrupted
-GDI Malware
+C++ short skidded GDI trojan by windowsuranus
